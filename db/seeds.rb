@@ -14,6 +14,6 @@ Ingredient.create(name: "mint leaves")
 Cocktail.create(name: "caipirinha")
 Cocktail.create(name: "gin n tonic")
 
-
+Dose.create(description: "200ml")
 
 
